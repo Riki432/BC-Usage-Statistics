@@ -1,0 +1,33 @@
+{
+  "id": "4710d427-f571-4f83-9b54-378c095cf02c",
+  "name": "BC-Usage-Statistics",
+  "publisher": "Rahul B.",
+  "version": "1.0.0.0",
+  "brief": "Track and analyze Business Central usage patterns",
+  "description": "BC Usage Statistics helps organizations measure and analyze user adoption by tracking table usage patterns. The solution provides insights into which features are being used, how frequently they're accessed, and helps identify areas for user training and system optimization.",
+  "privacyStatement": "https://github.com/riki432/BC-Usage-Statistics/blob/main/PRIVACY.md",
+  "EULA": "https://github.com/riki432/BC-Usage-Statistics/blob/main/EULA.md",
+  "help": "https://github.com/riki432/BC-Usage-Statistics/wiki",
+  "url": "https://github.com/riki432/BC-Usage-Statistics",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

@@ -1,0 +1,8 @@
+# AL Packages
+*.app
+*.zip
+
+# VSCode
+.vscode/
+.snapshots/
+.alpackages/

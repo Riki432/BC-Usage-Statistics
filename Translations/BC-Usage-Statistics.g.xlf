@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC-Usage-Statistics">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2194300684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 1300919661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2194300684 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597348868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Configuration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597348868 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Configuration - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597348868 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Configuration - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3443409521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3443409521 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Setup - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3443409521 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3443409521 - Field 2163988155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Frequency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Setup - Field Schedule Frequency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3443409521 - Field 2395779317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skip Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Usage Statistics Setup - Field Skip Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 4069946253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 3309971885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control endDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 2683860767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control entryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 3818733960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control startDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 1686156363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control tableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360854580 - Control 2999692465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics API - Control tableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3597348868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Configuration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3597348868 - Control 3808951907 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Configuration - Control Table Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3597348868 - Control 3017471043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the table number for which usage statistics will be collected.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Configuration - Control Table No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 585642014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether usage statistics collection is enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Control 2163988155 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how often the usage statistics should be generated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Control Schedule Frequency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Control 2395779317 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies users to skip from usage statistics collection.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Control Skip Users - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 3073375952 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the table configuration page to manage which tables to collect statistics for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action OpenConfiguration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 3073375952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Configuration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action OpenConfiguration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 4047383957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the usage statistics list to view collected statistics.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action OpenStatisticsList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 4047383957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action OpenStatisticsList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 960967663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete all usage statistics records.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action DeleteAllStatistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 960967663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action DeleteAllStatistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3443409521 - Action 960967663 - Method 1377591017 - NamedType 2396470215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete all usage statistics?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Usage Statistics Setup - Action DeleteAllStatistics - Method OnAction - NamedType ConfirmDeleteQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2062777779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2062777779 - Action 3117446396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Selection - Action Select - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 446174645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Usage Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Generate Usage Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 446174645 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Generate Usage Statistics - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 446174645 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Generate Usage Statistics - Control StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2309628775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Matrix</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Usage Statistics Matrix Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1592561136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage Statistics Schedule Frequency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Usage Statistics Frequency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1592561136 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Usage Statistics Frequency - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1592561136 - EnumValue 38359347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Usage Statistics Frequency - EnumValue Daily - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1592561136 - EnumValue 21616679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monthly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Usage Statistics Frequency - EnumValue Monthly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1592561136 - EnumValue 1966338867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weekly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Usage Statistics Frequency - EnumValue Weekly - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
