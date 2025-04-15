@@ -11,7 +11,12 @@
   "url": "https://github.com/riki432/BC-Usage-Statistics",
   "logo": "",
   "dependencies": [],
-  "screenshots": [],
+  "screenshots": [
+    "./Screenshots/Usage Statistics.png",
+    "./Screenshots/Usage Statistics Setup.png",
+    "./Screenshots/Usage Statistics Matrix.png",
+    "./Screenshots/Usage Statistics Configuration.png"
+  ],
   "platform": "1.0.0.0",
   "application": "25.0.0.0",
   "idRanges": [
